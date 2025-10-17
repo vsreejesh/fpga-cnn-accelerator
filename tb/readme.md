@@ -21,7 +21,7 @@ This folder contains the Verilog testbenches used to verify the functionality of
 - `cat_or_dog.v`: Main testbench for binary classification CNN, includes image loading and output checking.
 - Additional helper files or scripts may be included for simulation automation.
 
----change the path of the image.hex file as per the testbench
+-change the path of the image.hex file as per the testbench
 
 This testbench ensures the correctness of the CNN accelerator design before deployment on FPGA hardware. Use it to validate changes, test new image inputs, or benchmark performance.
 
