@@ -1,7 +1,0 @@
-## Contents
-
-- **CNN HARDWARE ACCELERATOR.pdf**  
-  Comprehensive project report describing architecture, design methodology, module descriptions, flow, and implementation details of the FPGA-based CNN accelerator.
-
-- **Simulation Results (PNG images)**  
-  Visual waveform captures and other simulation output images demonstrating the functionality and correctness of the RTL design during testbench verification.
